@@ -1,0 +1,27 @@
+From 9a3ef03a10d9e5e8ddc376c7ca51cf7614550bf9 Mon Sep 17 00:00:00 2001
+From: Boris Solomonia <borissolomoniaphone@gmail.com>
+Date: Thu, 7 Jul 2022 19:04:38 +0400
+Subject: [PATCH] 7 git_1: Update and commit firstFile.txt file, modify two
+ lines.
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 4d63d63..919ff19 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -4,7 +4,7 @@ world
+ how
+ are
+ you
+-i
+-am
++ii
++amam
+ ok
+ boris
+-- 
+2.35.1.windows.1
+
