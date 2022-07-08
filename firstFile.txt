@@ -1,7 +1,6 @@
 hellohello
 newnew
 worldd
-worldd
 how
 are
 you
